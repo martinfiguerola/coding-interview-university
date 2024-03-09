@@ -14,71 +14,12 @@
 >
 > *Best of luck to you!*
 
-<details>
-<summary>Translations:</summary>
 
-- [Bahasa Indonesia](translations/README-id.md)
-- [Bulgarian](translations/README-bg.md)
-- [Español](translations/README-es.md)
-- [German](translations/README-de.md)
-- [Japanese (日本語)](translations/README-ja.md)
-- [Polish](translations/README-pl.md)
-- [Português Brasileiro](translations/README-ptbr.md)
-- [Russian](translations/README-ru.md)
-- [Tiếng Việt - Vietnamese](translations/README-vi.md)
-- [Urdu - اردو](tanslations/README-ur.md)
-- [Uzbek](translations/README-uz.md)
-- [বাংলা - Bangla](translations/README-bn.md)
-- [ខ្មែរ - Khmer](translations/README-kh.md)
-- [中文版本](translations/README-cn.md)
-- [繁體中文](translations/README-tw.md)
-</details>
 
-<details>
-<summary>Translations in progress:</summary>
 
-- [Afrikaans](https://github.com/jwasham/coding-interview-university/issues/1164)
-- [Arabic](https://github.com/jwasham/coding-interview-university/issues/98)
-- [French](https://github.com/jwasham/coding-interview-university/issues/89)
-- [Greek](https://github.com/jwasham/coding-interview-university/issues/166)
-- [Italian](https://github.com/jwasham/coding-interview-university/issues/1030)
-- [Korean(한국어)](https://github.com/jwasham/coding-interview-university/issues/118)
-- [Malayalam](https://github.com/jwasham/coding-interview-university/issues/239)
-- [Persian - Farsi](https://github.com/jwasham/coding-interview-university/issues/186)
-- [Telugu](https://github.com/jwasham/coding-interview-university/issues/117)
-- [Thai](https://github.com/jwasham/coding-interview-university/issues/156)
-- [Turkish](https://github.com/jwasham/coding-interview-university/issues/90)
-- [Українська](https://github.com/jwasham/coding-interview-university/issues/106)
-- [עברית](https://github.com/jwasham/coding-interview-university/issues/82)
-- [हिन्दी](https://github.com/jwasham/coding-interview-university/issues/81)
-</details>
 
-<div align="center">
-	<hr />
-    <p>
-        <a href="https://github.com/sponsors/jwasham"><strong>Become a sponsor</strong> and support Coding Interview University!</a>
-    </p>
-    <hr />
-</div>
 
-## What is it?
 
-![Coding at the whiteboard - from HBO's Silicon Valley](https://d3j2pkmjtin6ou.cloudfront.net/coding-at-the-whiteboard-silicon-valley.png)
-
-This is my multi-month study plan for becoming a software engineer for a large company.
-
-**Required:**
-* A little experience with coding (variables, loops, methods/functions, etc)
-* Patience
-* Time
-
-Note this is a study plan for **software engineering**, not frontend engineering or full-stack development. There are really
-super roadmaps and coursework for those career paths elsewhere (see https://roadmap.sh/ for more info).
-
-There is a lot to learn in a university Computer Science program, but only knowing about 75% is good enough for an interview, so that's what I cover here.
-For a complete CS self-taught program, the resources for my study plan have been included in Kamran Ahmed's Computer Science Roadmap: https://roadmap.sh/computer-science
-
----
 
 ## Table of Contents
 
@@ -220,62 +161,11 @@ thousands of associative arrays, but I never created data structures from scratc
 
 It's a long plan. It may take you months. If you are familiar with a lot of this already it will take you a lot less time.
 
-## How to use it
 
-Everything below is an outline, and you should tackle the items in order from top to bottom.
-
-I'm using GitHub's special markdown flavor, including tasks lists to track progress.
-  - [More about GitHub-flavored markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
-
-### If you don't want to use git
-
-On this page, click the Code button near the top, then click "Download ZIP". Unzip the file and you can work with the text files.
-
-If you're open in a code editor that understands markdown, you'll see everything formatted nicely.
-
-![How to download the repo as a zip file](https://d3j2pkmjtin6ou.cloudfront.net/how-to-download-as-zip.png)
-
-### If you're comfortable with git
-
-Create a new branch so you can check items like this, just put an x in the brackets: [x]
-
-1. ***Fork the GitHub repo:*** `https://github.com/jwasham/coding-interview-university` by clicking on the Fork button.
-
-    ![Fork the GitHub repo](https://d3j2pkmjtin6ou.cloudfront.net/fork-button.png)
-
-1. Clone to your local repo:
-
-    ```bash
-    git clone https://github.com/<YOUR_GITHUB_USERNAME>/coding-interview-university.git
-    cd coding-interview-university
-    git remote add upstream https://github.com/jwasham/coding-interview-university.git
-    git remote set-url --push upstream DISABLE  # so that you don't push your personal progress back to the original repo
-    ```
 
 1. Mark all boxes with X after you completed your changes:
 
-    ```bash
-    git commit -am "Marked personal progress"
-    git pull upstream main  # keep your fork up-to-date with changes from the original repo
 
-    git push # just pushes to your fork
-    ```
-
-## Don't feel you aren't smart enough
-
-- Successful software engineers are smart, but many have an insecurity that they aren't smart enough.
-- The following videos may help you overcome this insecurity:
-    - [The myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)
-    - [It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech](https://www.youtube.com/watch?v=1i8ylq4j_EY)
-
-## A Note About Video Resources
-
-Some videos are available only by enrolling in a Coursera or EdX class. These are called MOOCs.
-Sometimes the classes are not in session so you have to wait a couple of months, so you have no access.
-
-It would be great to replace the online course resources with free and always-available public sources,
-such as YouTube videos (preferably university lectures), so that you people can study these anytime,
-not just when a specific online course is in session.
 
 ## Choose a Programming Language
 
